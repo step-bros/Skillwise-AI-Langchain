@@ -1,0 +1,36 @@
+"This file contains all the courses in the Skillwise Platform. Only recommend courses listed here, make recommendations based on the user profile.",_id,title,Provider,medium,duration,prerequisites,learningOutcomes,description,rating,status,tags
+1,00000000000000a0,The Complete 2023 Web Development Bootcamp,Udemy: https://www.udemy.com/course/the-complete-web-development-bootcamp/,E-LEARNING,63 hours,None,"1) Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.
+2) Learn the latest technologies, including Javascript, React, Node and even Web3 development.
+3) After the course you will be able to build ANY website you want.
+4) Build fully-fledged websites and web apps for your startup or business.
+5) Work as a freelance web developer.
+6) Master frontend development with React
+7) Master backend development with Node
+8) Learn professional developer best practices.","Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",4.7 out of 5 stars from 325363 reviews,ACTIVE,"Software Engineering, HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
+2,00000000000000a1,Add Firebase to your Flutter app,Firebase: https://firebase.google.com/learn/pathways/firebase-flutter,E-LEARNING,2 hours,Knowledge of Flutter,1) How to integrate Firebase products to your Flutter App,"Learn how to integrate Firebase products to your Flutter app, for seamless frontend and backend mobile app development.",,ACTIVE,"Software Engineering, Flutter, Firebase, Mobile App development, Front-end, Back-end"
+3,00000000000000a2,AWS Technical Essentials,AWS: https://explore.skillbuilder.aws/learn/course/external/view/elearning/1851/aws-technical-essentials,E-LEARNING,4 hours,"IT experience
+Basic knowledge of common data center architectures and components (servers, networking, databases, applications, and so on)
+No prior cloud computing or AWS experience is required.","1) Describe terminology and concepts related to AWS services.
+2) Navigate the AWS Management Console.
+3) Articulate key concepts of AWS security measures and AWS Identity and Access Management (IAM).
+4) Distinguish between several AWS compute services, including Amazon Elastic Compute Cloud (Amazon EC2) and AWS Lambda.
+5) Distinguish between several AWS container services, including Amazon Elastic Container Service (Amazon ECS) and Amazon Elastic Kubernetes Services (Amazon EKS).
+6) Describe AWS database and storage offerings, including Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon Simple Storage Service (Amazon S3).
+7) Explore AWS networking services.
+8) Access and configure Amazon CloudWatch monitoring features.","AWS Technical Essentials introduces you to essential Amazon Web Services and common solutions. The course covers the fundamental AWS concepts related to compute, database, storage, networking, monitoring, and security.",5 out of 5,ACTIVE,"Amazon Web Services, Cloud Computing, Software Engineering, Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon Simple Storage Service"
+4,00000000000000a3,Life and Career Coaching for Yourself using the GROW Model,Udemy: https://www.udemy.com/course/life-and-career-coaching/ ,E-LEARNING,1 hour,"You need a desire to change and improve
+It's a good idea to have a notepad and pen to complete the exercises","Understand the concept of coaching yourself
+Appreciate the benefits and downside of coaching yourself
+Work through future problems and issues using the GROW model
+Learn the power of the GROW model structure
+Appreciate the importance of well formed GOALS
+Learn about the power of asking questions in solving problems or issues
+Understand the benefit of looking for several possible solutions
+Action the first steps in moving forward to solve a problem or issue",,4.5 out of 5 stars from 1913 reviews,ACTIVE,"Career Development, Life Coaching, Self-development, Personal Growth"
+5,00000000000000a4,Supply Chain Management Specialization,Coursera: https://www.coursera.org/specializations/supply-chain-management,E-LEARNING,1 month,"None, but a general business background would be helpful","1) Transportation, warehousing and inventory, and logistics network design.
+2) Techniques used to optimize flow and focuses specifically on Six Sigma quality and Lean practices.
+3) Supply Chain Planning, master different forecasting approaches.
+4) Different techniques that help you create lasting and productive supplier relationships. 
+5) Solve a real-life business case.","This Specialization is an introduction to the fascinating world of Supply Chain Management. When you complete the program you'll have a  richer understanding of the complexities that companies are facing in today's global networked economy.  
+
+The Specialization is for you, if: 1. you're looking to start a career in Supply Chain Management, but lack the basic background; 2. you're working with people in Supply Chain Management and want to understand their daily challenges better; 3. you're fascinated by how the global economy is linked together by the flow of products, information, and finances.",4.8 out of 5 stats from 11493 reviews,ACTIVE,"Supply Chain, Forecasting, Logistics, Lean Six Sigma, Supply Chain Risk Management"
